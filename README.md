@@ -14,9 +14,6 @@
 
 
 
-
-
-
 Examples:
 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
