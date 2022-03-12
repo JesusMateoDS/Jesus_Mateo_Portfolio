@@ -7,7 +7,7 @@
 * Your task is to come up with the code that will re-create the same chart making it look as close as possible to the original
 * A new dataset has been supplied.
 
-
+![](/images/Domestic Gross % by Genre.png)
 
 
 
